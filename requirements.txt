@@ -2,3 +2,4 @@ requests
 pysnow
 docopt
 boto3
+hvac
